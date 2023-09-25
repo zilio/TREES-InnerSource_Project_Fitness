@@ -1,0 +1,71 @@
+﻿en,pt-br
+Change language, Alterar idioma
+InnerSource Project Fitness Assessment, Avaliação de Adequação do Projeto InnerSource
+InnerSource Project Fitness Assessment Questionnaire, Questionário de Avaliação de Adequação do Projeto InnerSource
+Project compatibility, Compatibilidade do projeto
+The project has functionality that is likely to be interesting to developers outside the original development team, O projeto tem funcionalidades que provavelmente interessarão a desenvolvedores fora da equipe original de desenvolvimento
+., Escolha a tradução da lista- Strongly disagree: Discordo completamente; Disagree: Discordo; Neither agree nor disagree: Nem concordo nem discordo; Agree: Concordo; Strongly agree: Concordo completamente; yes: sim; no: não
+Is it a Minimum Viable Product that works and can be experimented on?, É um Produto Mínimo Viável que funciona e pode ser experimentado?
+The project is valuable to the company, O projeto é valioso para a empresa
+The project (or some modules) could be widely used by other teams in the company who might depend on it, O projeto (ou alguns módulos) pode ser amplamente utilizado por outras equipes da empresa que possam depender dele
+Is any of the following true for the project? (choose all applicable options), Alguma das seguintes afirmações é verdadeira para o projeto? (escolha todas as opções aplicáveis)
+It has to satisfy very strict requirements, Ele precisa atender requisitos muito estritos
+It has confidential IP that should not be exposed, Possui PI confidencial que não deve ser exposto
+It is in the critical path of important deliverables, Está no caminho crítico das entregas importantes
+It has useful features/modules that might prevent effort wasted on 'Reinventing the Wheel', Ele possui recursos/módulos úteis que podem evitar esforços desperdiçados ao "Reinventar a Roda"
+Maintainers are receptive to external contributions, Mantenedores são receptivos a contribuições externas
+The project is modular enough to make changes easy and safe to make, O projeto é modular o suficiente para que mudanças sejam fáceis e seguras de serem feitas
+"All ancillary resources (Adequate Code Documentation, Discussion forum, Bug Tracker, Wiki etc.) are set up for the project", "Todos os recursos auxiliares (Documentação de Código Adequada, Fórum de Discussão, Rastreador de Bugs, Wiki etc.) estão configurados para o projeto"
+"The project has clear and easy-to-find Contribution guidelines, documentation on development environment setup, running tests, etc. making it easy to contribute to", "O projeto possui diretrizes de contribuição claras e fáceis de encontrar, documentação sobre configuração de ambiente de desenvolvimento, execução de testes, etc., tornando fácil contribuir para ele"
+"Is all of the code stored in a version control repository that makes branches, pull requests, and integration easy?", "Todo o código está armazenado em um repositório de controle de versão que facilita ramos, pull requests e integração?"
+Can releases be made frequently and/ or on a time-based schedule?, Lançamentos podem ser feitos frequentemente e/ou com base em um cronograma?
+The project uses specialized tools/ framework that outsiders need to learn before they can contribute, O projeto usa ferramentas/ frameworks especializados que os externos precisam aprender antes de poderem contribuir
+Is there a mechanism for making announcements that anyone in the organization can follow and search? (Examples: Slack/ email), Existe um mecanismo para fazer anúncios que qualquer pessoa na organização possa seguir e pesquisar? (Exemplos: Slack/ email)
+"Is there a mechanism to record discussions so that new guest contributors can search for all previous Q-A and internal team decisions? (Examples: Slack/ online forum)", "Existe um mecanismo para registrar discussões, para que novos colaboradores convidados possam pesquisar todas as Q-A anteriores e decisões da equipe interna? (Exemplos: Slack/ fórum online)"
+"Team Members are willing to accept code from outsiders and make code changes based on their feedback", Membros da equipe estão dispostos a aceitar código de estranhos e fazer mudanças no código com base em seus comentários
+"Team Members are ok with having outsiders see their less-than-perfect code", Membros da equipe estão bem com o fato de terceiros verem seu código menos que perfeito
+"Team Members are ok with having to conduct conversations (that are sometimes difficult) with outsiders about accepting and rejecting their contributions", Membros da equipe estão bem em ter que conduzir conversas (que às vezes são difíceis) com terceiros sobre aceitar e rejeitar suas contribuições
+"Team Members are ready to mentor and/or learning to mentor contributors from other teams", Membros da equipe estão prontos para orientar e/ou aprender a orientar contribuidores de outras equipes
+"Team Members are ready to work with external contributors for fixing any defects on the contributed code", Membros da equipe estão prontos para trabalhar com colaboradores externos para corrigir quaisquer defeitos no código contribuído
+"Team Members are willing to create and maintain documentation for external contributors", Membros da equipe estão dispostos a criar e manter documentação para colaboradores externos
+"Team Members are willing to participate in online forums and answer questions patiently (instead of having offline conversations)", Membros da equipe estão dispostos a participar de fóruns online e responder perguntas pacientemente (em vez de ter conversas offline)
+"Team Members are willing to do code reviews for external contributors' submissions", Membros da equipe estão dispostos a fazer revisões de código para submissões de colaboradores externos
+"Management is willing to support flexible work requirements and value the time spent on cross-departmental contributions", A gestão está disposta a apoiar requisitos de trabalho flexíveis e valorizar o tempo gasto em contribuições interdepartamentais
+"Management supports a meritocratic philosophy that appreciates good contributions from all quarters", A gestão apoia uma filosofia meritocrática que aprecia boas contribuições de todos os quadrantes
+"Management understands the difficulties of a cultural change and can accept experimentation, failure, and repositioning to a reasonable extent", "A gerência entende as dificuldades de uma mudança cultural e pode aceitar experimentação, falha e reposicionamento em uma extensão razoável."
+"Management is willing to recognize and incentivize the efforts for making InnerSource Successful", "A gerência está disposta a reconhecer e incentivar os esforços para tornar o InnerSource bem-sucedido"
+Disable Alerts, "Desativar alertas"
+Check Results, "Verificar resultados"
+Download Scores, "Baixar pontuações"
+Download Plots, "Baixar gráficos"
+"Thank you!", "Obrigado!"
+See the Result Below, "Veja o resultado abaixo"
+Visual Breakdown of Fitness Score, "Análise visual da pontuação de adequação"
+score, "pontuação"
+Process compatibility, "Compatibilidade de processo"
+People compatibility, "Compatibilidade de pessoas"
+Seed Product, "Produto inicial"
+Multiple potential stakeholders, "Vários stakeholders potenciais"
+Ease of Contribution, "Facilidade de contribuição"
+Appropriate tools & practices, "Ferramentas e práticas adequadas"
+Team Readiness for InnerSource, "Preparo da equipe para InnerSource"
+Management Support, "Apoio da gerência"
+The Estimated Fitness Score of this Project is:, "A pontuação estimada de adequação deste projeto é:"
+; (Range: 0 to 10), "; (Faixa: 0 a 10)"
+Strongly disagree, "Discordo fortemente"
+Disagree, "Discordo"
+Neither agree nor disagree, "Nem concordo nem discordo"
+Agree, "Concordo"
+Strongly agree, "Concordo fortemente"
+Yes, "Sim"
+No, "Não"
+Enter Project Name, "Digite o nome do projeto"
+Project Name, "Nome do projeto"
+Final Score, "Pontuação final"
+Explanation, "Explicação"
+The File has been saved, "O arquivo foi salvo"
+Something went wrong, "Algo deu errado"
+ERROR!, "ERRO!"
+Save results, "Salvar resultados"
+What it all means, "O que tudo isso significa"
+"Any project can be developed in InnerSource style, but some projects are more suitable candidates than others. The 'fitness' of a project can be measured by assessing whether the project has the necessary qualities to attract enough developers to build a community around it, that the tools and processes allow for collaborative development, and that the project maintainers are ready to face the challenges of InnerSource style development. We label this as the Project-Process-People model. We suggest two sub-factors within each which overall provides six dimensions to measure the fitness of candidate projects. Further Reading: ...", "Qualquer projeto pode ser desenvolvido no estilo InnerSource, mas alguns projetos são candidatos mais adequados do que outros. A 'adequação' de um projeto pode ser medida avaliando se o projeto possui as qualidades necessárias para atrair desenvolvedores suficientes para construir uma comunidade em torno dele, se as ferramentas e processos permitem o desenvolvimento colaborativo e se os mantenedores do projeto estão prontos para enfrentar os desafios do desenvolvimento no estilo InnerSource. Nós rotulamos isso como o modelo Projeto-Processo-Pessoas. Sugerimos dois subfatores em cada um, que no total fornecem seis dimensões para medir a adequação dos projetos candidatos. Leituras adicionais: ..."：https://ieeexplore.ieee.org/document/6809709, https://innersourcecommons.org/checklist/"，

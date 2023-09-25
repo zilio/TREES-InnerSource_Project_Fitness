@@ -134,7 +134,7 @@ server <- function(input, output, session) {
     # })
     
     # Mapping Likert Scale responses to numbers
-    maplist = list("Strongly disagree" = 1, "Disagree" = 2, "Neither agree nor disagree" = 3, "Agree" = 4, "Strongly agree" = 5, ' 非常不同意' = 1, ' 不同意' = 2, ' 不同意也不反对' = 3, ' 同意' = 4, ' 非常同意' = 5 )
+    maplist = list("Strongly disagree" = 1, "Disagree" = 2, "Neither agree nor disagree" = 3, "Agree" = 4, "Strongly agree" = 5, ' 非常不同意' = 1, ' 不同意' = 2, ' 不同意也不反对' = 3, ' 同意' = 4, ' 非常同意' = 5, "Discordo Fortemente" = 1, "Discordo" = 2, "Não concordo nem Discordo" = 3, "Concordo" = 4, "Concordo Fortemente" = 5 )
     
     # Create Data Frame from responses
     getData <- eventReactive(input$go, {
