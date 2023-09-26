@@ -248,7 +248,7 @@ server <- function(input, output, session) {
         process = i18n()$t("Process compatibility")
         people = i18n()$t("People compatibility")
         
-        getData() %>% slice(3) %>% t() %>% as.data.frame() %>% add_rownames() %>% mutate(Category=factor(c(rep(technology,2), rep(process,2), rep(people,2)))) %>% arrange(V1) %>% mutate(rowname=factor(rowname, rowname)) %>%
+        getData() %>% slice(3) %>% t() %>% as.data.frame() %>% rownames_to_column() %>% mutate(Category=factor(c(rep(technology,2), rep(process,2), rep(people,2)))) %>% arrange(V1) %>% mutate(rowname=factor(rowname, rowname)) %>%
             ggplot( aes(x=rowname, y=V1, color=Category)) +
             geom_segment( aes(x=rowname ,xend=rowname, y=0, yend=V1), color="grey") +
             geom_point(size=5) +
