@@ -66,9 +66,9 @@ server <- function(input, output, session) {
   likert.choices = c("Strongly disagree", "Disagree", "Neither agree nor disagree", "Agree", "Strongly agree")
   
   YN.choices = list("Yes" = 1, "No" = 0)
-  v1problist = list("It has to satisfy very strict requirements" = 1, 
-                    "It has confidential IP that should not be exposed" = 2, 
-                    "It is in the critical path of important deliverables" = 1)
+  v1problist = list(i18n()$t("It has to satisfy very strict requirements") = 1, 
+                    i18n()$t("It has confidential IP that should not be exposed") = 2, 
+                    i18n()$t("It is in the critical path of important deliverables") = 1)
   v2pluslist = list("It has useful features/modules that might prevent effort wasted on 'Reinventing the Wheel" = 1, 
                     "Maintainers are receptive to external contributions" = 1)
   # Update Radio Buttons & Check options
